@@ -1,8 +1,4 @@
-Transformable Grid
-
-## Purpose
-
-The idea of this simple prototype is to demonstrate how data can be displayed flexibly using AngularJS and HTML5/CSS3. In this example photos downloaded from Instagram are presented to the user either in a compact list-view with textual description or as big photos in grid format. All the data is fetched dynamically by interacting with an Instagram API endpoint using AngularJS RESTful 'controller'.
+The idea of this simple prototype is to demonstrate how data can be displayed flexibly using AngularJS and HTML5/CSS3 technologies. In this example, photos downloaded from Instagram are presented to the user in a compact list view or in grid format with the use of a simple click. All the data is fetched dynamically by interfacing with an Instagram API endpoint over HTTPs protocol.
 
 ## Build
 
